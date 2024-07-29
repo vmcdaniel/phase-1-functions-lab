@@ -1,5 +1,7 @@
 require ( './helpers.js' );
 
+/* This code snippet is a test suite written using the Mocha testing framework for a JavaScript
+program. */
 describe('index.js', function() {
   describe('distanceFromHqInBlocks()', function() {
     it('returns a distance in blocks', function() {
